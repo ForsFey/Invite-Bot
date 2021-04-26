@@ -1,0 +1,16 @@
+{
+  "name": "ForsFey-Invite",
+  "version": "0.0.1",
+  "description": "ForsFey Invite Bot",
+  "main": "ForsFey.js",
+  "scripts": {
+    "start": "node ForsFey.js"
+  },
+  "author": "ForsFey",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "mongoose": "^5.12.5"
+  },
+  "keywords": []
+}
